@@ -1,0 +1,11 @@
+C:\Users\abeis\source\repos\Lab12UMLDiagram\obj\Debug\netcoreapp3.1\Lab12UMLDiagram.csprojAssemblyReference.cache
+C:\Users\abeis\source\repos\Lab12UMLDiagram\obj\Debug\netcoreapp3.1\Lab12UMLDiagram.AssemblyInfoInputs.cache
+C:\Users\abeis\source\repos\Lab12UMLDiagram\obj\Debug\netcoreapp3.1\Lab12UMLDiagram.AssemblyInfo.cs
+C:\Users\abeis\source\repos\Lab12UMLDiagram\bin\Debug\netcoreapp3.1\Lab12UMLDiagram.exe
+C:\Users\abeis\source\repos\Lab12UMLDiagram\bin\Debug\netcoreapp3.1\Lab12UMLDiagram.deps.json
+C:\Users\abeis\source\repos\Lab12UMLDiagram\bin\Debug\netcoreapp3.1\Lab12UMLDiagram.runtimeconfig.json
+C:\Users\abeis\source\repos\Lab12UMLDiagram\bin\Debug\netcoreapp3.1\Lab12UMLDiagram.runtimeconfig.dev.json
+C:\Users\abeis\source\repos\Lab12UMLDiagram\bin\Debug\netcoreapp3.1\Lab12UMLDiagram.dll
+C:\Users\abeis\source\repos\Lab12UMLDiagram\bin\Debug\netcoreapp3.1\Lab12UMLDiagram.pdb
+C:\Users\abeis\source\repos\Lab12UMLDiagram\obj\Debug\netcoreapp3.1\Lab12UMLDiagram.dll
+C:\Users\abeis\source\repos\Lab12UMLDiagram\obj\Debug\netcoreapp3.1\Lab12UMLDiagram.pdb
